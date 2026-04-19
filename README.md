@@ -1,2 +1,2 @@
 # Python-study
-estudando python
+Estudando python
